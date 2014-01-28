@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OperaMatrices</string>
+    <string name="texto_titulo_main">Matrices Cuadradas</string>
+    <string name="texto_subitulo_main">Crea dos matrices cuadradas y visualiza sus operaciones básicas</string>
+    <string name="texto_boton_crear_m1">Crear Matriz A</string>
+    <string name="texto_boton_crear_m2">Crear Matriz B</string>
+    <string name="texto_boton_salir">Salir</string>
+    <string name="texto_boton_multiplicar">Multiplicar Matrices</string>
+    <string name="texto_boton_sumar">Sumar Matrices</string>
+	<string name="texto_titulo_crear_m1">Matriz A:</string>
+	<string name="texto_titulo_crear_m2">Matriz B:</string>
+	<string name="texto_boton_crear">Crear Matriz</string>
+	<string name="texto_titulo_sumar">Suma:</string>
+	<string name="texto_titulo_multiplicar">Multiplicación:</string>
+	<string name="texto_titulo_resultado">Resultado:</string>
+	<string name="error_falta_matrices">Crea las matrices primero</string>
+	<string name="error_falta_m1">Debes crear la primera matriz</string>
+	<string name="error_falta_m2">Debes crear la segunda matriz</string>
+	<string name="error_falta_numero">Debes rellenar todos los campos</string>
+	<string name="texto_boton_volver">Atrás</string>
+</resources>
